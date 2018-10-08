@@ -31,8 +31,8 @@ public class PBO210117074Latihan31PerkenalanMahasiswa {
         mhs3.PerkenalanDiri(mhs3.nim, mhs3.nama);
 
         Mhs mhs4 = new Mhs();
-        mhs4.nim  = "10116228";
-        mhs4.nama = "Gandy Christian Situmorang" + "\n";
+        mhs4.nim  = "10116282";
+        mhs4.nama = "Gcs" + "\n";
         mhs4.PerkenalanDiri(mhs4.nim, mhs4.nama);
     }
     
